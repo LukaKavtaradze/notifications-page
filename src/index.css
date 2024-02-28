@@ -59,6 +59,7 @@ h1 {
 .mark {
   color: #5e6778;
   font-size: 14px;
+  cursor: pointer;
   font-weight: 500;
 }
 .mark:hover {
@@ -79,6 +80,7 @@ h1 {
   display: flex;
   padding: 12px 12px;
   align-items: flex-start;
+  cursor: pointer;
   gap: 10px;
 }
 .img img {
